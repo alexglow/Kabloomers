@@ -1,0 +1,418 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* KABLOOMERSAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 357}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 316}";
+		};
+	};
+	1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1157}}";
+			sepNavSelRange = "{599, 0}";
+			sepNavVisRange = "{205, 1146}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* KABLOOMERS */ = {
+		activeExec = 0;
+		executables = (
+			FAAFB36E145C977A002060DC /* KABLOOMERS */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FAAFB36E145C977A002060DC /* KABLOOMERS */;
+		activeSDKPreference = iphonesimulator4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* KABLOOMERS */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* KABLOOMERS */,
+		);
+		codeSenseManager = FAAFB37F145C979B002060DC /* Code sense */;
+		executables = (
+			FAAFB36E145C977A002060DC /* KABLOOMERS */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					582,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 341827913;
+			PBXWorkspaceStateSaveDate = 341827913;
+		};
+		perUserProjectItems = {
+			FA4ECAFF145FE14D0029B8A6 /* PBXTextBookmark */ = FA4ECAFF145FE14D0029B8A6 /* PBXTextBookmark */;
+			FAAFB388145CA01A002060DC = FAAFB388145CA01A002060DC /* PBXTextBookmark */;
+			FAAFB389145CA01A002060DC = FAAFB389145CA01A002060DC /* PBXTextBookmark */;
+			FAAFB38E145CA023002060DC = FAAFB38E145CA023002060DC /* PBXTextBookmark */;
+			FAAFB38F145CA023002060DC = FAAFB38F145CA023002060DC /* PBXBookmark */;
+			FAAFB390145CA023002060DC = FAAFB390145CA023002060DC /* PlistBookmark */;
+			FAAFB391145CA023002060DC = FAAFB391145CA023002060DC /* PBXTextBookmark */;
+			FAAFB392145CA023002060DC = FAAFB392145CA023002060DC /* PBXTextBookmark */;
+			FAAFB3A8145F1344002060DC = FAAFB3A8145F1344002060DC /* PlistBookmark */;
+			FAAFB3A9145F1344002060DC = FAAFB3A9145F1344002060DC /* PBXTextBookmark */;
+			FAAFB3AA145F1344002060DC = FAAFB3AA145F1344002060DC /* PBXTextBookmark */;
+			FAAFB3AB145F1344002060DC = FAAFB3AB145F1344002060DC /* PBXTextBookmark */;
+			FAAFB3AE145F136B002060DC = FAAFB3AE145F136B002060DC /* PBXTextBookmark */;
+			FAAFB3AF145F136B002060DC = FAAFB3AF145F136B002060DC /* PBXTextBookmark */;
+			FAAFB3B0145F137B002060DC = FAAFB3B0145F137B002060DC /* PBXTextBookmark */;
+			FAAFB3B1145F137B002060DC = FAAFB3B1145F137B002060DC /* PBXTextBookmark */;
+			FAAFB3B4145F1387002060DC = FAAFB3B4145F1387002060DC /* PBXTextBookmark */;
+			FAAFB3B5145F1387002060DC = FAAFB3B5145F1387002060DC /* PBXTextBookmark */;
+			FAAFB3B8145F13CA002060DC = FAAFB3B8145F13CA002060DC /* PBXTextBookmark */;
+			FAAFB3BA145F151F002060DC = FAAFB3BA145F151F002060DC /* PBXTextBookmark */;
+			FAAFB3CC145F491D002060DC = FAAFB3CC145F491D002060DC /* PBXTextBookmark */;
+			FAAFB3CF145F4927002060DC = FAAFB3CF145F4927002060DC /* PBXBookmark */;
+			FAAFB3D0145F4927002060DC = FAAFB3D0145F4927002060DC /* PBXTextBookmark */;
+			FAAFB3D1145F4927002060DC = FAAFB3D1145F4927002060DC /* PBXTextBookmark */;
+			FAAFB3D2145F4927002060DC = FAAFB3D2145F4927002060DC /* PBXTextBookmark */;
+			FAAFB3D3145F499D002060DC = FAAFB3D3145F499D002060DC /* PBXTextBookmark */;
+			FAAFB3D7145F8753002060DC = FAAFB3D7145F8753002060DC /* PlistBookmark */;
+			FAAFB3D9145F8753002060DC = FAAFB3D9145F8753002060DC /* PBXTextBookmark */;
+			FAAFB3DA145F8753002060DC = FAAFB3DA145F8753002060DC /* PBXTextBookmark */;
+		};
+		sourceControlManager = FAAFB37E145C979B002060DC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FA4ECAFF145FE14D0029B8A6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		name = "KABLOOMERSAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 599;
+		rType = 0;
+		vrLen = 1146;
+		vrLoc = 205;
+	};
+	FAAFB36E145C977A002060DC /* KABLOOMERS */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = KABLOOMERS;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FAAFB37E145C979B002060DC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FAAFB37F145C979B002060DC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FAAFB388145CA01A002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Too many arguments to function 'CGRectMake'";
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		rLen = 1;
+		rLoc = 22;
+		rType = 1;
+	};
+	FAAFB389145CA01A002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		name = "KABLOOMERSAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 486;
+		rType = 0;
+		vrLen = 509;
+		vrLoc = 228;
+	};
+	FAAFB38E145CA023002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* KABLOOMERSAppDelegate.h */;
+		name = "KABLOOMERSAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 0;
+	};
+	FAAFB38F145CA023002060DC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FAAFB380145C9A99002060DC /* icon.png */;
+	};
+	FAAFB390145CA023002060DC /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* KABLOOMERS-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/alex/Documents/xcode projects/KABLOOMERS/KABLOOMERS-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	FAAFB391145CA023002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Too many arguments to function 'CGRectMake'";
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		rLen = 1;
+		rLoc = 22;
+		rType = 1;
+	};
+	FAAFB392145CA023002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		name = "KABLOOMERSAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 550;
+		rType = 0;
+		vrLen = 1062;
+		vrLoc = 206;
+	};
+	FAAFB3A8145F1344002060DC /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* KABLOOMERS-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/alex/Documents/xcode projects/KABLOOMERS/KABLOOMERS-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	FAAFB3A9145F1344002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* KABLOOMERSAppDelegate.h */;
+		name = "KABLOOMERSAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 0;
+	};
+	FAAFB3AA145F1344002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		name = "KABLOOMERSAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 550;
+		rType = 0;
+		vrLen = 1063;
+		vrLoc = 205;
+	};
+	FAAFB3AB145F1344002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		name = "KABLOOMERSAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 589;
+		rType = 0;
+		vrLen = 1063;
+		vrLoc = 206;
+	};
+	FAAFB3AE145F136B002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Stray '\\' in program";
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		rLen = 1;
+		rLoc = 23;
+		rType = 1;
+	};
+	FAAFB3AF145F136B002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		name = "KABLOOMERSAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 556;
+		rType = 0;
+		vrLen = 527;
+		vrLoc = 228;
+	};
+	FAAFB3B0145F137B002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Stray '\\' in program";
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		rLen = 1;
+		rLoc = 23;
+		rType = 1;
+	};
+	FAAFB3B1145F137B002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		name = "KABLOOMERSAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 556;
+		rType = 0;
+		vrLen = 228;
+		vrLoc = 0;
+	};
+	FAAFB3B4145F1387002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Stray '\\' in program";
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		rLen = 1;
+		rLoc = 23;
+		rType = 1;
+	};
+	FAAFB3B5145F1387002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		name = "KABLOOMERSAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 556;
+		rType = 0;
+		vrLen = 690;
+		vrLoc = 0;
+	};
+	FAAFB3B8145F13CA002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		name = "KABLOOMERSAppDelegate.m: 25";
+		rLen = 0;
+		rLoc = 648;
+		rType = 0;
+		vrLen = 1067;
+		vrLoc = 206;
+	};
+	FAAFB3BA145F151F002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		name = "KABLOOMERSAppDelegate.m: 25";
+		rLen = 0;
+		rLoc = 648;
+		rType = 0;
+		vrLen = 1067;
+		vrLoc = 206;
+	};
+	FAAFB3CC145F491D002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		name = "KABLOOMERSAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 556;
+		rType = 0;
+		vrLen = 279;
+		vrLoc = 0;
+	};
+	FAAFB3CF145F4927002060DC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FAAFB3C7145F488C002060DC /* leafbg.png */;
+	};
+	FAAFB3D0145F4927002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* KABLOOMERSAppDelegate.h */;
+		name = "KABLOOMERSAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 0;
+	};
+	FAAFB3D1145F4927002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		name = "KABLOOMERSAppDelegate.m: 25";
+		rLen = 2;
+		rLoc = 646;
+		rType = 0;
+		vrLen = 1066;
+		vrLoc = 206;
+	};
+	FAAFB3D2145F4927002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		name = "KABLOOMERSAppDelegate.m: 26";
+		rLen = 0;
+		rLoc = 742;
+		rType = 0;
+		vrLen = 1099;
+		vrLoc = 205;
+	};
+	FAAFB3D3145F499D002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		name = "KABLOOMERSAppDelegate.m: 27";
+		rLen = 0;
+		rLoc = 742;
+		rType = 0;
+		vrLen = 1156;
+		vrLoc = 205;
+	};
+	FAAFB3D7145F8753002060DC /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = FAAFB3D8145F8753002060DC /* SDKSettings.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			DefaultProperties,
+			CODE_SIGN_ENTITLEMENTS,
+		);
+		name = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/SDKSettings.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	FAAFB3D8145F8753002060DC /* SDKSettings.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.xml;
+		name = SDKSettings.plist;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/SDKSettings.plist;
+		sourceTree = "<absolute>";
+	};
+	FAAFB3D9145F8753002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		name = "KABLOOMERSAppDelegate.m: 27";
+		rLen = 0;
+		rLoc = 742;
+		rType = 0;
+		vrLen = 997;
+		vrLoc = 206;
+	};
+	FAAFB3DA145F8753002060DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KABLOOMERSAppDelegate.m */;
+		name = "KABLOOMERSAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 599;
+		rType = 0;
+		vrLen = 995;
+		vrLoc = 206;
+	};
+}
